@@ -1,4 +1,4 @@
-# 打印欢迎信息
+ 打印欢迎信息
 print("你好，GitHub! ")
 print("这是我放在GitHub上的第一段代码")
 
@@ -6,4 +6,8 @@ print("这是我放在GitHub上的第一段代码")
 a = 10
 b = 20
 result = a + b
-print(f"10 + 20 = {result}")
+print(f"{a} + {b} = {result}")
+
+# 新增减法示例
+sub_result = a - b
+print(f"{a} - {b} = {sub_result}")
