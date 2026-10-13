@@ -11,3 +11,4 @@ print(f"{a} + {b} = {result}")
 # 新增减法示例
 sub_result = a - b
 print(f"{a} - {b} = {sub_result}")
+print("这是我练习Git提交新增的一行代码")
